@@ -30,12 +30,12 @@ first of all
 ***
 
 
-``` git clone https://github.com/tdarkscorpion/Talisman.git```
+``` git clone https://github.com/tdarkscorpion/letestfile.git```
 ***
 then
 
 ***
-``` cd Talisman && mv * ../ ```
+``` cd letestfile && mv * ../ ```
 ***
 ```cd```
 ***
