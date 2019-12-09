@@ -85,11 +85,8 @@ then also give same permission to file 1 2 3
 ***
 then
 ***
-```sudo dpkg -i *.deb ```
-***
-```apt-get -f install ```
-***
-```sudo dpkg -i lib*.deb ```
+``` yum localinstall mysqlclient15-5.0.67-1.el5.remi.i386.rpm
+ ```
 ***
  don't forget to put your  *game_server.evp*  in *game* folder i cant upload coz github dont support file larger then 25.MB 
 
